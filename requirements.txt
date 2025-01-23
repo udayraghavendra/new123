@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-_anaconda_depends=2023.07
+_anaconda_depends==2023.07
 abseil-cpp=20211102.0
 absl-py=2.0.0
 aiobotocore=2.4.2
